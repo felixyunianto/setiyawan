@@ -1,0 +1,7 @@
+{
+  "name": "dieng",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
